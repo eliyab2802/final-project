@@ -1,0 +1,221 @@
+HEADER
+/* L.H.S Navigation Links */
+/* The Logo Icon */
+.logo {
+  width: 45px;
+  height: 45px;
+  float: left;
+  margin-left: 1%;
+  margin-top: .25%;
+}
+/* The Search Bar */
+.topnav-left input[type=text] {
+  border: 1px solid #ccc;
+  width: 20%;
+  font-size: 18px;
+  margin-left: 2%;
+}
+/* R.H.S Navigation Links */
+/* Style the links inside the navigation bar */
+.topnav-right a {
+color: #0000009d;
+padding: 18px 18px;
+text-decoration: none;
+font-size: 19px;
+width: 15%;
+}
+/* HOVER */
+.topnav-right a:hover {
+background-color: rgb(255, 255, 255);
+color: rgba(0, 0, 0, 0.356);
+}
+/* RIGHT-ALIGNMENT */
+.topnav-right {
+float: right;
+margin-top: 1%;
+margin-right: 1%;
+}
+/* BODY! */
+/* Solid border */
+/* ABOUT OUT BLOG */
+.about {
+  padding: 30px;
+  background-color: #ffffff00;
+  text-align: center;
+  font-size: 20px;
+  color: #0000009d;
+}
+/* DISCOVER SUSTAINABLE BRANDS */
+/* HEADER */
+h1{
+    color: #0000009d;
+    font-size: 40px;
+    padding: 30px;
+    width: 95%;
+    text-align: center;
+    align-items: center;
+    background-color:#ffd1d1b6;
+  }
+/* BRAND LOGOS */
+  .AllBirds {
+    width: 15%;
+    margin-left: 15%;
+    padding: 20px;
+  }
+  .InkeyList {
+    width: 15%;
+    margin-left: 11%;
+    padding: 20px;
+  }
+  .UrbanDecay {
+    width: 15%;
+    margin-left: 10%;
+    padding: 20px;
+    margin-top: 5%;
+  }
+/* Most Recent Post */
+  .btn {
+    border: 1px dotted #0000009d;
+    line-height: 50px;
+    background-color: #ffd1d1b6;
+    font-size: 20px;
+    cursor: pointer;
+    color: #0000009d;
+    margin-top: 6%;
+    margin-left: 25%;
+    display: block;
+    width: 50%;
+  }
+  /* Hover */
+  .btn:hover {background: #eee;}
+/* OUR AUGUST FAVOURITES */
+/* ITEM PHOTOS */
+  .Moisturiser {
+    width: 15%;
+    margin-left: 13%;
+  }
+  .Shoes {
+    width: 15%;
+    margin-left: 13.5%;
+  }
+  .Necklace {
+    width: 15%;
+    margin-left: 13.5%;
+  }
+/* NEWSLETTER */
+/* FORM */
+form {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+/* CONTAINER */
+.container {
+  padding: 5px;
+  background-color: #ffffff00;
+  text-align: center;
+  font-size: 20px;
+  color: #0000009d;
+}
+/* SUBMIT BUTTON */
+input[type=text], input[type=submit] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgb(218, 216, 216);
+  box-sizing: border-box;
+  color: #0000009d;
+  font-size: 18px;
+}
+/* SUBMIT BUTTON */
+input[type=submit] {
+  background-color:#ffd1d1b6;
+  color: #0000009d;
+  border: none;
+  font-size: 20px;
+  border: 1px dotted #0000009d;
+  width: 40%;
+  margin-bottom: 3%;
+}
+/* HOVER */
+input[type=submit]:hover {
+  opacity: 0.8;
+  color: #eee;
+}
+/* FOOTER */
+/* BOTTOM NAVIGATION BAR */
+.navbar {
+  text-align: center;
+  background: #ddd;  
+}
+/* TABLE */
+  table {
+    list-style-type: none;
+    padding: 20px 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    left: 50%;
+  }
+/* NAVIGATION LINKS */
+/* LINKS*/
+.navbar a {
+  color: #0000009d;
+  padding: 20px 20px;
+  text-decoration: none;
+  }
+  /* HOVER */
+  .navbar a:hover {
+  color: black;
+  }
+  /* COPYRIGHT */
+.copyright {
+  text-align: center;
+  font-size: 20px;
+  color: #0000009d;
+  background-color: #ffd1d1b6;
+  padding: 1px;
+}
+
+HEADER
+/* L.H.S Navigation Links */
+/* The Logo Icon */
+.logo {
+  width: 10px;
+  height: 10px;
+  float: left;
+  margin-left: 1%;
+  margin-top: .25%;
+}
+/* The Search Bar */
+.topnav-left input[type=text] {
+  border: 1px solid #ccc;
+  width: 20%;
+  font-size: 18px;
+  margin-left: 2%;
+}
+/* R.H.S Navigation Links */
+/* Style the links inside the navigation bar */
+.topnav-right a {
+color: #0000009d;
+padding: 18px 18px;
+text-decoration: none;
+font-size: 19px;
+width: 15%;
+}
+/* HOVER */
+.topnav-right a:hover {
+background-color: rgb(255, 255, 255);
+color: rgba(0, 0, 0, 0.356);
+}
+/* RIGHT-ALIGNMENT */
+.topnav-right {
+float: right;
+margin-top: 1%;
+margin-right: 1%;
+}
