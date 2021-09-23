@@ -1,11 +1,5 @@
 HEADER
-.logo {
-    width: 45px;
-    height: 45px;
-    float: left;
-    margin-left: 1%;
-    margin-top: .25%;
-  }
+
   /* The Search Bar */
 .topnav-left input[type=text] {
     border: 1px solid #ccc;
