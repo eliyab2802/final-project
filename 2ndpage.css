@@ -1,32 +1,33 @@
 HEADER
-
-  /* The Search Bar */
+/* L.H.S Navigation Links */
+/* The Logo Icon */
+/* The Search Bar */
 .topnav-left input[type=text] {
-    border: 1px solid #ccc;
-    width: 20%;
-    font-size: 18px;
-    margin-left: 2%;
-  }
-  /* R.H.S Navigation Links */
-  /* Style the links inside the navigation bar */
+  border: 1px solid #ccc;
+  width: 20%;
+  font-size: 18px;
+  margin-left: 2%;
+}
+/* R.H.S Navigation Links */
+/* Style the links inside the navigation bar */
 .topnav-right a {
 color: #0000009d;
 padding: 18px 18px;
 text-decoration: none;
 font-size: 19px;
 width: 15%;
-  }
-  /* HOVER */
+}
+/* HOVER */
 .topnav-right a:hover {
 background-color: rgb(255, 255, 255);
 color: rgba(0, 0, 0, 0.356);
-  }
-  /* RIGHT-ALIGNMENT */
+}
+/* RIGHT-ALIGNMENT */
 .topnav-right {
-  float: right;
-  margin-top: 1%;
-  margin-right: 1%;
-  }
+float: right;
+margin-top: 1%;
+margin-right: 1%;
+}
   /* Increase the font size of the <h1> element */
   .header h1 {
     color: rgb(68, 66, 66);
