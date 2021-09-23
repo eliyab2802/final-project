@@ -152,25 +152,34 @@ HEADER
 /* FOOTER */
 /* BOTTOM NAVIGATION BAR */
 .navbar {
+  text-align: center;
+  background: #ddd;  
+}
+/* TABLE */
+  table {
+    list-style-type: none;
+    padding: 20px 20px;
+    width: 100%;
     text-align: center;
-    background: #ddd;
+    font-size: 18px;
+    left: 50%;
   }
 /* NAVIGATION LINKS */
 /* LINKS*/
 .navbar a {
-    color: #0000009d;
-    padding: 20px 20px;
-    text-decoration: none;
-    }
-    /* HOVER */
-    .navbar a:hover {
-    color: black;
-    }
-    /* COPYRIGHT */
-  .copyright {
-    text-align: center;
-    font-size: 20px;
-    color: #0000009d;
-    background-color: #ffd1d1b6;
-    padding: 1px;
+  color: #0000009d;
+  padding: 20px 20px;
+  text-decoration: none;
   }
+  /* HOVER */
+  .navbar a:hover {
+  color: black;
+  }
+  /* COPYRIGHT */
+.copyright {
+  text-align: center;
+  font-size: 20px;
+  color: #0000009d;
+  background-color: #ffd1d1b6;
+  padding: 1px;
+}
